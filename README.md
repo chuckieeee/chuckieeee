@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Chuckie </h1>
+<div class="tenor-gif-embed" data-postid="291861425853656816" data-share-method="host" data-aspect-ratio="1.44767" data-width="100%"><a href="https://tenor.com/view/dancing-toothless-tothless-dancing-toothless-dancing-toothless-meme-gif-291861425853656816">Dancing Toothless Tothless GIF</a>from <a href="https://tenor.com/search/dancing+toothless-gifs">Dancing Toothless GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <details open="">
 <summary>
