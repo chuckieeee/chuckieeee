@@ -18,19 +18,7 @@
 <br>
 
 <p align="center">
-
-<img height="175"
-src="https://github-readme-stats.vercel.app/api?username=chuckieeee&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=B7C9F2&count_private=true&include_all_commits=true" />
-
-<img height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckieeee&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=B7C9F2" />
-
-</p>
-
-<p align="center">
 <img
-src="https://streak-stats.demolab.com?user=chuckieeee&hide_border=true&background=B7C9F2&ring=000000&fire=000000&currStreakLabel=000000"
+src="https://streak-stats.demolab.com?user=chuckieeee&hide_border=true&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff4df2&dates=00f5ff"
 />
 </p>
-
-</details>
